@@ -15,7 +15,7 @@ Developed an Android app for real-time image recognition using Java and ML Kit. 
 # Outpit Of Image Recognition App 
 
 <p float="left">
-  <img src="![WhatsApp Image 2026-03-19 at 11 39 09 PM (1)](https://github.com/user-attachments/assets/f0979045-7b9d-4525-9399-88231a520320)" width="200" />
+  <img src=![WhatsApp Image 2026-03-19 at 11 39 09 PM (1)](https://github.com/user-attachments/assets/f0979045-7b9d-4525-9399-88231a520320) width="200" />
   <img src="images/screenshot2.png" width="200" />
 </p>
 
