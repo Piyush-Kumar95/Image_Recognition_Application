@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+   android:background="@color/white"
+    tools:context=".MainActivity">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Image Recognition App"
+        android:gravity="center"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:layout_marginTop="80dp"
+        android:textColor="@color/black"
+        />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:id="@+id/objectImage"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="18dp"
+        android:src="@drawable/baseline_image_24"
+        android:contentDescription="Captured Image"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/capBtn"
+        android:text="Capture Image"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/poppins"
+        android:textSize="16dp"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/blue"
+        />
+
+    <TextView
+        android:id="@+id/labelImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/poppins"
+        android:textColor="@color/blue"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+</LinearLayout>
