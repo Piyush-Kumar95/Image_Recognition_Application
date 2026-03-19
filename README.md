@@ -9,6 +9,6 @@ Developed an Android app for real-time image recognition using Java and ML Kit. 
 # Tech Stack:
 - Language: Java
 - IDE: Android Studio
-- ML Tool: ML Kit (Image Labeling)
+- ML Tool: [ML Kit (Image Labeling)] (https://developers.google.com/ml-kit/vision/image-labeling) 
 - Target Platform: Android 6.0+
 
