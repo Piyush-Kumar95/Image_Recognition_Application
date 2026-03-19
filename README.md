@@ -19,6 +19,3 @@ Developed an Android app for real-time image recognition using Java and ML Kit. 
   <img src="https://github.com/user-attachments/assets/5754f960-ae52-4d1e-b8ad-688cf140d184" width="250" />
 </p>
 
-![WhatsApp Image 2026-03-19 at 11 39 09 PM (1)](https://github.com/user-attachments/assets/f0979045-7b9d-4525-9399-88231a520320)
-![WhatsApp Image 2026-03-19 at 11 39 09 PM](https://github.com/user-attachments/assets/fb4f168d-1c5c-4247-a83c-5692a8e3f6d3)
-![WhatsApp Image 2026-03-19 at 11 39 07 PM](https://github.com/user-attachments/assets/5754f960-ae52-4d1e-b8ad-688cf140d184)
